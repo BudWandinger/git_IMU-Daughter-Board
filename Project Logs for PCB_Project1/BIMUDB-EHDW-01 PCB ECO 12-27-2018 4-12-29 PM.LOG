@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=NetM1_6 Pin=R10-2
+Added Component: Designator=R10(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES 100K OHM 1/10W 5% 0603 SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "MCR03EZPJ104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "RHM100KGCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100078"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2010-10-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetM1_6 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2

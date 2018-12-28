@@ -1,0 +1,491 @@
+Change Component Library : Designator=J1 Old Library= New Library=Engenuics Master Schematic Library.SchLib
+Change Component Library : Designator=J2 Old Library=Blackline Master Schematic Library.SCHLIB New Library=Engenuics Master Schematic Library.SchLib
+Change component parameters: Designator = "BO1"; Footprint = "BREAKOUT 4-HOLE 4MM"; UniqueID = "\FQKBUBMC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "BREAKOUT TAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 18, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BO2"; Footprint = "BREAKOUT 4-HOLE 4MM"; UniqueID = "\XFLECFAP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "BREAKOUT TAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 18, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BO3"; Footprint = "BREAKOUT 4-HOLE 4MM"; UniqueID = "\RRHALWXX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "BREAKOUT TAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 18, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BO4"; Footprint = "BREAKOUT 4-HOLE 4MM"; UniqueID = "\WMCJFTRA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "BREAKOUT TAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 18, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BO5"; Footprint = "BREAKOUT 4-HOLE 4MM"; UniqueID = "\DSYTTDOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "BREAKOUT TAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 18, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "BO6"; Footprint = "BREAKOUT 4-HOLE 4MM"; UniqueID = "\OUPSCLOE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "BREAKOUT TAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 18, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "0603"; UniqueID = "\NNYEPYYD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "CAP CER 1uF 10% X5R 16V 0603 SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "EMK107BJ105KA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1251-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-08-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "0603"; UniqueID = "\FROWSVYI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "CAP CER 1uF 10% X5R 16V 0603 SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "EMK107BJ105KA-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1251-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-08-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "0805"; UniqueID = "\DLJOBGOF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "CAP CER 10UF 10V X5R 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LMK212BJ106KG-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1300-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2010-10-11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "0603 AK"; UniqueID = "\AWLGYFPD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "LED GREEN CLEAR 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Lite-on"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LTST-C190GKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "160-1183-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100065"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "October 18, 2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "HDR1X12 ENGENUICS CHILD"; UniqueID = "\DDOPBTRU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "CONN HEADER 12POS .100 R/A TIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "68016-412HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "609-3330-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-08-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "HDR1X12 ENGENUICS PARENT"; UniqueID = "\BNBPJUTT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "CONN TERMINAL 12POS 0.100" RIGHT ANGLE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "PPTC121LGBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "S5448-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100031"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LBL1"; Footprint = "LABEL PCB ACTIVE LAYERS VERTICAL"; UniqueID = "\MAMTJWWI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "LABEL PCB ACTIVE LAYERS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "LBL2"; Footprint = "LABEL PCB REVISION BLADE"; UniqueID = "\WUHANIVT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "LABEL PCB ENGENUICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 30, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LBL4"; Footprint = "LABEL PCB Title Block"; UniqueID = "\TWTIQIHC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "LABEL PCB TITLE BLOCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 30, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0603"; UniqueID = "\THKIERAH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "RES 698K OHM 1/10W 1% 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "RC0603FR-07698KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "311-698KHRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "July 4, 2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0603"; UniqueID = "\RKPEBEQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "RES 100K OHM 1/10W 5% 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "MCR03EZPJ104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "RHM100KGCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100078"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2010-10-11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "0603"; UniqueID = "\EGTVGEUL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "RES 1.2K OHM 1/10W 5% 0603 SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "MCR03EZPJ122"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "RHM1.2KGCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2010-10-11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP1"; Footprint = "TEST POINT SMT"; UniqueID = "\AEGRKCSU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "Test pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 12, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP2"; Footprint = "TEST POINT SMT"; UniqueID = "\AKBQYYIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "Test pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 12, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3"; Footprint = "TEST POINT SMT"; UniqueID = "\ODJSKFFF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "Test pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "June 12, 2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "SOT23-5"; UniqueID = "\UJPGPUBA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "IC LDO REG 300MA ADJ-V SOT23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = "MCP1824T-ADJE/OT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = "MCP1824T-ADJE/OTCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = "100049"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z1"; Footprint = "FIDUCIAL PCB"; UniqueID = "\BDTTSULQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "FIDUCIAL SINGLE LAYER PADS ONLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z2"; Footprint = "FIDUCIAL PCB"; UniqueID = "\RAVLJCDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "FIDUCIAL SINGLE LAYER PADS ONLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z3"; Footprint = "FIDUCIAL PCB"; UniqueID = "\MGGJOJNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "FIDUCIAL SINGLE LAYER PADS ONLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z4"; Footprint = "FIDUCIAL PANEL"; UniqueID = "\YLPAQFGP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "FIDUCIAL MULTI LAYER PAD ONLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z5"; Footprint = "FIDUCIAL PANEL"; UniqueID = "\AYDIMYEO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "FIDUCIAL MULTI LAYER PAD ONLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z6"; Footprint = "FIDUCIAL PANEL"; UniqueID = "\FMLFTBIR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = "FIDUCIAL MULTI LAYER PAD ONLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = "2011-04-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = "JRL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z7"; Footprint = "TOOLING HOLE 125MIL"; UniqueID = "\DAHYATNT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z8"; Footprint = "TOOLING HOLE 125MIL"; UniqueID = "\YTHUHKKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z9"; Footprint = "TOOLING HOLE 125MIL"; UniqueID = "\DBQDGTFC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Z10"; Footprint = "TOOLING HOLE 125MIL"; UniqueID = "\GGKLOTDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "1. Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CAP CER 100NF 10V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LMK212BJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1300-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-12-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CAP CER 100NF 10V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LMK212BJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1300-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-12-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CAP CER 100NF 10V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LMK212BJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1300-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-12-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CAP CER 100NF 10V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LMK212BJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1300-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-12-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "CAP CER 100NF 10V X5R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = "Taiyo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = "LMK212BJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = "587-1300-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = "100006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = "2018-12-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = "BJW"; VariantName = "[No Variations]"
+Added Component: Designator=M1(LSM9DS3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "497-14946-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Modified"; Value = "2018-12-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LSM9DS1TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modified By"; Value = "Bud Wandinger"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "1. Description"; Value = "RES [VALUE] [POWER] [TOLERANCE] [PACKAGE] [CONSTRUCTION]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "2. Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3. Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "4. Digi-Key Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "5. Internal Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "6. Last Modified"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "7. Modified By"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=M1-1
+Added Pin To Net: NetName=VCC Pin=M1-3
+Added Pin To Net: NetName=SDA/IO8 Pin=M1-4
+Added Pin To Net: NetName=VCC Pin=M1-7
+Added Pin To Net: NetName=VCC Pin=M1-8
+Added Pin To Net: NetName=GND Pin=M1-14
+Added Pin To Net: NetName=GND Pin=M1-15
+Added Pin To Net: NetName=GND Pin=M1-16
+Added Pin To Net: NetName=GND Pin=M1-17
+Added Pin To Net: NetName=GND Pin=M1-18
+Added Pin To Net: NetName=GND Pin=M1-19
+Added Pin To Net: NetName=GND Pin=M1-20
+Added Pin To Net: NetName=VCC Pin=M1-22
+Added Pin To Net: NetName=VCC Pin=M1-23
+Added Pin To Net: NetName=MOSI/IO4 Pin=R4-1
+Added Pin To Net: NetName=UTX/IO3 Pin=R5-1
+Added Pin To Net: NetName=URX/IO2 Pin=R6-1
+Added Pin To Net: NetName=AN1/IO1 Pin=R7-1
+Added Pin To Net: NetName=AN0/IO0 Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=M1-21
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=M1-24
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetM1_5 Pin=M1-5
+Added Pin To Net: NetName=NetM1_5 Pin=R11-1
+Added Pin To Net: NetName=NetM1_5 Pin=R12-2
+Added Net: Name=NetM1_5
+Added Pin To Net: NetName=NetM1_6 Pin=M1-6
+Added Pin To Net: NetName=NetM1_6 Pin=R9-1
+Added Pin To Net: NetName=NetM1_6 Pin=R10-2
+Added Net: Name=NetM1_6
+Added Pin To Net: NetName=NetM1_9 Pin=M1-9
+Added Pin To Net: NetName=NetM1_9 Pin=R8-2
+Added Net: Name=NetM1_9
+Added Pin To Net: NetName=NetM1_10 Pin=M1-10
+Added Pin To Net: NetName=NetM1_10 Pin=R7-2
+Added Net: Name=NetM1_10
+Added Pin To Net: NetName=NetM1_11 Pin=M1-11
+Added Pin To Net: NetName=NetM1_11 Pin=R6-2
+Added Net: Name=NetM1_11
+Added Pin To Net: NetName=NetM1_12 Pin=M1-12
+Added Pin To Net: NetName=NetM1_12 Pin=R5-2
+Added Net: Name=NetM1_12
+Added Pin To Net: NetName=NetM1_13 Pin=M1-13
+Added Pin To Net: NetName=NetM1_13 Pin=R4-2
+Added Net: Name=NetM1_13
+Added Pin To Net: NetName=SCL/IO9 Pin=J1-3
+Added Pin To Net: NetName=SCL/IO9 Pin=J2-3
+Added Pin To Net: NetName=SCL/IO9 Pin=M1-2
+Added Net: Name=SCL/IO9
+Added Class: Name=BIMUDB-EHDW-01
+Added Class: Name=Sheet1
+Added Room: Name=BIMUDB-EHDW-01
+Added Room: Name=Sheet1
